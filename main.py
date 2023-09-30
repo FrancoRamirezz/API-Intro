@@ -7,6 +7,3 @@ app = FastAPI()
 async def root():
     return {"message": "Hello World", "version": "beta"}
 
-""""
-
-""""
