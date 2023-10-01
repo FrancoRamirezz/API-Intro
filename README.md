@@ -2,4 +2,4 @@
 An introduction to how to build a API in Python. We will be using Python and fast API 
 
 # First part:
-Pip install FastAPI and make sure that Python is on the computer. 
+Pip install FastAPI and make sure that Python is on the computer. Then install a few packages, such as streamlit
