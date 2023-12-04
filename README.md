@@ -1,4 +1,4 @@
-# Api workshop with OpenAI, Langchain FastApI and Discord
+# Api workshop with OpenAI, Node.js, and Discord
 An introduction to the world of APIs and how the Python library Fast API is used to build effective and efficient APIS
 ## Table of Contents 🤖
 - [Introduction API basics](#Introduction)
