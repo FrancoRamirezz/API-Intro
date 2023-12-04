@@ -1,5 +1,5 @@
 
-// this will ne used to create the bot
+// this will be used to create the bot
 require("dotenv/env");
 const {Client} = require('discord.js');
 const {OpenAi} = require('openai');
