@@ -1,27 +1,37 @@
 
 // this will be used to create the bot
-require("dotenv/env");
-const {Client} = require('discord.js');
-const {OpenAi} = require('openai');
-
+//require('dotenv').config();
+const token = "you can put discord key here or use the statment above"; 
+const {Client, GatewayIntentBits, Message } = require("discord.js");
+// if we just call intents this happend because 
 
 const client = new Client({
-    intents: ['Guilds', 'GuildMembers', 'GuildMessages', "MessagesContent"]
+    intents:[
+        GatewayIntentBits.Guilds,
+		GatewayIntentBits.GuildMessages,
+		GatewayIntentBits.MessageContent,
+		GatewayIntentBits.GuildMembers,
+    ]
 })
 
-
-// this is used to make the  following event holder 
-client.on("the bot is ready", () =>{
+// this is used to make the  following event holder to call this 
+client.on("ready", () =>{
     console.log("bot online")
-})
+});
+// we will make another an event for the bot to respond+
+const IGNORE_PREFIX = ["!", "*"]
 
-client.login(process.env.Token)
-
-
-console.log(response)
-function Discord_bot(){
-    console.log("Hello World")
+client.on('messageCreate', (message) =>{
+if(message.author.bot){
+    return; 
 }
 
-discord = Discord_bot()
+
+});
+
+client.login(token)
+console.log("bot is ready ")
+//function Discord_bot(){
+
+///}
 
