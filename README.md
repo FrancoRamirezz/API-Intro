@@ -3,7 +3,7 @@ An introduction to the world of APIs and how they work in Discord
 ## Table of Contents 🤖
 - [Introduction API basics](#Introduction)
 - [Discord](#usage)
-- [Features](#features)
+- [API](#features)
 
 
 ## Introduction 🫡
@@ -12,5 +12,5 @@ An API or an application programming interface is a piece of software that enabl
 
 ## DiscordJs or Discordpy  🫡
 Discordjs is a library that serves as a wrapper for all of discords functionality 
-## Tokens
+## Tokens and API
 The discord 
