@@ -11,6 +11,6 @@ An API or an application programming interface is a piece of software that enabl
 ### The get method is use getting something from the server,
 
 ## DiscordJs or Discordpy  🫡
- Fast API is a new web development library intended to build API in an effective manner. The fast API will be needed for part of the implementation with an openai. The fast API will be used to handle inputs and outputs
+ Fast API is a new web development library intended to build API effectively. The fast API will be needed for part of the implementation with an openai. The fast API will be used to handle inputs and outputs
 ## Nodejs
 The discord 
