@@ -2,7 +2,7 @@
 An introduction to the world of APIs and how they work in Discord
 ## Table of Contents 🤖
 - [Introduction API basics](#Introduction)
-- [Fast API](#usage)
+- [Discord](#usage)
 - [Features](#features)
 
 
