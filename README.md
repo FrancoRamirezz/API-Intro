@@ -1,4 +1,4 @@
-# Api workshop with OpenAI, Node.js, and Discord
+# Api Hackathon with OpenAI, Node.js, and Discord
 An introduction to the world of APIs and how they work in Discord
 ## Table of Contents 🤖
 - [Introduction API basics](#Introduction)
