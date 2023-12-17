@@ -13,4 +13,4 @@ An API or an application programming interface is a piece of software that enabl
 ## DiscordJs or Discordpy  🫡
 Discordjs is a library that serves as a wrapper for all of Discord functionality 
 ## Tokens and API
-The discord token can be found on the developer portal. T
+The discord token can be found on the developer portal. The openai api can be found on the developer portal as well
