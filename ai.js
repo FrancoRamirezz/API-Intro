@@ -23,5 +23,5 @@ async function main(){
 console.log((main))
 
 
-
+// you can import it from this file
 
