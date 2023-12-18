@@ -1,3 +1,4 @@
+// there are another way to make import it
 const {Configuration,OpenAI} = require('openai')
 
 const openai = new OpenAI({
