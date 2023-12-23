@@ -25,4 +25,4 @@ console.log((main))
 
 
 // you can import it from this file
-
+// by using the export statment
