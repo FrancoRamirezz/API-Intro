@@ -25,4 +25,7 @@ console.log((main))
 
 
 // you can import it from this file
-// by using the export statment
+// by using the export statment, for the following code
+module.exports = {
+ main,
+};
