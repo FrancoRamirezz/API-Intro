@@ -1,4 +1,4 @@
-
+// this contains all the code for the gateway intents 
 // this will be used to create the bot
 //require('dotenv').config();
 const token = "you can put discord key here or use the statment above"; 
