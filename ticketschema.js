@@ -11,6 +11,7 @@ let ticketSchema = new Schema(
 
     }
 );
+// we can add more to the ticketSchema
 module.exports = model('ticktSchema', ticketSchema)
 
 
