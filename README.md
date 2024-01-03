@@ -16,8 +16,7 @@ POST: This tells the API you want to add, or post, new data to the server.
 PUT: This is used to update existing resources on the API. 
 
 DELETE: This is used to—you guessed it—delete existing data from the server. 
-
-
+A transaction per second (TPS) limit is a metric used to measure the processing limits of an API
 
 ## DiscordJs or Discordpy  🫡
 Discordjs is a library that serves as a wrapper for all of Discord's functionality 
