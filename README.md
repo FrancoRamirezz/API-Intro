@@ -27,3 +27,5 @@ The discord token can be found on the developer portal. The Open API can be foun
 
 To make things easier,here are the links:
 
+
+https://platform.openai.com/docs/overview
