@@ -23,3 +23,7 @@ A transaction per second (TPS) limit is a metric used to measure the processing 
 Discordjs is a library that serves as a wrapper for all of Discord's functionality 
 ## Tokens and API
 The discord token can be found on the developer portal. The Open API can be found on the developer portal as well.
+
+
+To make things easier,here are the links:
+
