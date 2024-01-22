@@ -24,8 +24,9 @@ Discordjs is a library that serves as a wrapper for all of Discord's functionali
 ## Tokens and API
 The discord token can be found on the developer portal. The Open API can be found on the developer portal as well.
 
+The tokens are used for the connection to connect them to a server
 
-To make things easier,here are the links:
+To make things easier, here are the links:
 
 
 https://platform.openai.com/docs/overview
